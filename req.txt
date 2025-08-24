@@ -1,0 +1,8 @@
+Hi
+
+Here I create a model for prize prediction/masure of a "Laptop"
+
+fine :)
+
+The first thing we need is "Jupiter notebook"/"Colab". That will make us work easier. 
+
