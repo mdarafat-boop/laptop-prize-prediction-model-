@@ -6,3 +6,4 @@ fine :)
 
 The first thing we need is "Jupiter notebook"/"Colab". That will make us work easier. 
 
+Secondly we will need some libraries such as: numpy, pandas, matlotlib, sikit-learn etc
